@@ -111641,7 +111641,7 @@ if(s)r=5
 else if(k>=1000)r=4
 else{q=k>=700?3:2
 r=q}if(s)p=1
-else if(k>=1000)p=0.75
+else if(k>=1000)p=0.86
 else{s=k>=700?0.75:0.704
 p=s}s=k>700?20:0
 q=l.b
