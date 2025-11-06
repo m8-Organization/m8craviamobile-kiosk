@@ -112845,14 +112845,14 @@ p=A.W(b2,a2,a4).w.a.b
 o=new A.ata(b2,q,p)
 n=A.W(b2,a2,a4).w.a.a>=1024?a5*0.03:a5*0.07
 m=A.aY(b2,!1,t._).r
-l=a8?A.W(b2,a2,a4).w.a.b*0.34:A.W(b2,a2,a4).w.a.b*0.23
+l=a8?A.W(b2,a2,a4).w.a.b*0.5:A.W(b2,a2,a4).w.a.b*0.23
 if(A.W(b2,a2,a4).w.a.a>=1600)l=A.W(b2,a2,a4).w.a.b*0.9
 if(l>450)l=450
 if(A.W(b2,a2,a4).w.a.a>=1600)k=a5*0.6
 else k=a8?a5*0.4:1/0
 j=a8?a2:B.P1
 k=A.ax(a2,a2,B.j,a2,a2,new A.aF(a8?B.h:a2,a2,a2,a2,a2,j,B.r),a2,l,a2,a2,a2,a2,a2,k)
-if(A.W(b2,a2,a4).w.a.a>=1600)a4=a5*0.6
+if(A.W(b2,a2,a4).w.a.a>=1600)a4=a5*0.7
 else a4=a8?a5*0.4:1/0
 j=a8?B.MS:B.Z
 i=q*0.06
