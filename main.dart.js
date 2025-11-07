@@ -112485,9 +112485,9 @@ else i=f?15:0
 r=A.aH(15)
 q=A.aH(8)
 o=A.a([],o)
-if(n.f==="Takeaway")o.push(n.Th(a,"Dine In","assets/icons/dinein.svg"))
+if(n.f==="Takeaway")o.push(n.Th(a,"Dine In","assets/icons/dine.svg"))
 if(n.f==="Dine In")o.push(n.Th(a,"Takeaway","assets/icons/takeaway.svg"))
-l.push(A.dw(m,A.eQ(B.Q,r,A.aw(m,A.aZv(A.bd(o,B.m,B.n,B.am),m),B.j,m,m,new A.aC(m,m,m,q,m,B.c0,B.r),m,m,m,m,m,m,m,150),B.j,m,4,m,m,m,m,m,B.bh),m,m,m,12,56+i,m))}return A.jT(!0,new A.zg(A.cC(B.au,l,B.H,B.a1),new A.aGm(a,j),!1,m),B.Y,!0)},
+l.push(A.dw(m,A.eQ(B.Q,r,A.aw(m,A.aZv(A.bd(o,B.m,B.n,B.am),m),B.j,m,m,new A.aC(m,m,m,q,m,B.c0,B.r),m,m,m,m,m,m,m,140),B.j,m,4,m,m,m,m,m,B.bh),m,m,m,12,56+i,m))}return A.jT(!0,new A.zg(A.cC(B.au,l,B.H,B.a1),new A.aGm(a,j),!1,m),B.Y,!0)},
 arx(a,b){var s,r,q,p,o,n=this,m=n.c
 m.toString
 s=A.S(m,null,t.w).w.a.a
@@ -112515,7 +112515,7 @@ n=A.dy(k.r,B.h,B.l2,j,j)
 m=k.f
 if(c)l=15
 else l=d?15:12
-return A.aXk(A.a([new A.al(B.r2,A.bR(B.cw,A.aw(j,A.at(A.a([new A.ag(p,o,n,j),B.dz,A.X(m,j,j,j,j,j,A.ba().$3$color$fontSize$fontWeight(B.h,l,B.Z),j,j)],r),B.m,j,B.aZ,B.am),B.j,j,j,new A.aC(j,j,j,q,j,B.c0,B.r),j,j,j,j,B.m4,j,j,150),B.y,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.aFE(k),j,j,j,j,j,j),j)],r),!1,B.iF,!1,j,j,new A.al(new A.a_(e,0,e,0),s,j),0,70)},
+return A.aXk(A.a([new A.al(B.r2,A.bR(B.cw,A.aw(j,A.at(A.a([new A.ag(p,o,n,j),B.dz,A.X(m,j,j,j,j,j,A.ba().$3$color$fontSize$fontWeight(B.h,l,B.Z),j,j)],r),B.m,j,B.aZ,B.am),B.j,j,j,new A.aC(j,j,j,q,j,B.c0,B.r),j,j,j,j,B.m4,j,j,140),B.y,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.aFE(k),j,j,j,j,j,j),j)],r),!1,B.iF,!1,j,j,new A.al(new A.a_(e,0,e,0),s,j),0,70)},
 avQ(a,b,c,d){return new A.al(B.Ne,A.auG(new A.aG9(this,new A.d9(b),d,c),new A.aGa(),t.c,t.Iy),null)},
 af4(a,b,c,d,e){var s,r,q=this,p=null,o=d.gdt(),n=B.d.bP(e,50,60),m=A.aH(16),l=A.hg(A.W(B.d.T(76.5),158,158,158),1),k=B.d.T(25.5),j=t.V,i=A.a([new A.cb(1,B.ae,A.W(k,0,0,0),B.ds,6)],j),h=A.hP(B.j8,B.bu,p,B.d.bP(c,18,28)),g=q.d,f=t.p
 g=A.c5(A.cC(B.dg,A.a([new A.jc(g,new A.aFN(q,o),p,p,t.ue),A.Jg(!0,B.cy,!1,p,!0,B.H,p,A.a9M(),g,p,p,p,p,p,2,B.mr,B.y,!0,p,!0,p,!1,q.e,p,p,p,p,p,p,p,1,p,p,!1,"\u2022",p,new A.aFO(q),p,p,p,!1,p,!1,p,!0,p,B.dO,p,p,B.cr,B.cg,p,p,p,p,p,p,B.z.bi(B.k,B.e.bP(o,14,20),B.p),B.aO,p,B.fh,p,p,p,p)],f),B.H,B.a1),1)
@@ -112536,7 +112536,7 @@ else r=l?30:25
 q=A.dy(c,B.h,B.l2,o,o)
 if(m)p=15
 else p=l?15:12
-return A.ql(!1,!0,A.aw(o,A.at(A.a([new A.ag(s,r,q,o),B.dz,A.X(b,o,o,o,o,o,A.ba().$3$color$fontSize$fontWeight(B.h,p,B.Z),o,o)],t.p),B.m,o,B.n,B.am),B.j,o,o,new A.aC(o,o,o,k,o,o,B.r),o,o,o,o,B.m4,o,o,o),o,!0,o,o,o,o,o,o,o,o,o,new A.aFH(this,b,c,a),o,o,o,o)},
+return A.ql(!1,!0,A.aw(o,A.at(A.a([new A.ag(s,r,q,o),B.dz,A.X(b,o,o,o,o,o,A.ba().$3$color$fontSize$fontWeight(B.h,p,B.Z),o,o)],t.p),B.m,o,B.n,B.am),B.j,o,o,new A.aC(o,o,o,k,o,o,B.r),o,o,o,o,B.m4,o,o,140),o,!0,o,o,o,o,o,o,o,o,o,new A.aFH(this,b,c,a),o,o,o,o)},
 C5(){var s=0,r=A.F(t.H),q=this,p
 var $async$C5=A.B(function(a,b){if(a===1)return A.C(b,r)
 while(true)switch(s){case 0:p=q.at
