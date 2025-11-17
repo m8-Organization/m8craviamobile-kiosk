@@ -12,7 +12,7 @@
   "ready_serve": "Ready to serve in...",
   "place_order": "Login & Place Order",
   "order_ready":"Order ready time..",
-  "bug_one": "Bug One Get One",
+  "bug_one": "Buy One Get One",
   "combo": "Combo Offer",
   "main_menu": "Main Menu",
   "dine_in": "Dine In",
@@ -75,5 +75,6 @@
   "done": "Done",
   "go_home":"Go Home",
   "yes_clear": "Yes, Clear",
-  "clear_confirmation": "Are you sure you want to clear all the items?"
+  "clear_confirmation": "Are you sure you want to clear all the items?",
+  "update_item": "Update Item"
 }
