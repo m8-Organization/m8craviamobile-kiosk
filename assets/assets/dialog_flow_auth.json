@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cravia-bot-moeh",
+  "private_key_id": "80ae072b0497c7c38d0626e40bf99579426b5273",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDL1b/bn43QF4gM\n1LU0npytKdxROeq1DKca5Rruk2AkDWaxpAGbgpmy0kTLH6IqT+dIbb/Hnt2Hxjm4\ndp903L25N1ozR8KVZq5IxNCdoGKFCWmDk7ydfWfLftkLScFIHN/wZUG+ympbsEty\nHy2k/DjLqIpm2jgxz3gQDm3NzTA0Cl4EM9z/OefAUIVXhWh9w3HLSSBZrw0BXEif\nqQ1w14TyNIkaZfKqVfXOsgJ5EGzKpQYEokwTuXOGJ6EA67miYQ9oMfUQ3biB36yA\nCKcqdpDJs4RkQlbRuHtTXEZIO70UvdFKo3b7auKLqsTBpy8PHkzUIJlw2abtAX2v\ni4733a1/AgMBAAECggEALEVeiDrdOCcEO5UvTiBs8wc2fMXRfkUjPioocUy9AteO\nSGLQno/9BeO5YUybkgkMuKRtlNOiVczt2GybMWyIIGQvSRf64SwOCmwEy1d8Tly+\n9/7sZmBIXOBOD6+TNTBgSvwTDXc1JnjhygWPilfllgYjGTeoINlowEQCAULhh0ud\n6Pw3pLZVIclvOY+FOepcmDOMaTFeugiHkOzh6uXYWxM4YdrmUSlY0HbeFYdDQJWJ\nvfxRXvb5zbIBuKbluWQiqDdPg8A0MAFZlAwrflY2Ec6i93mJd+QJHH4DARcq0XmZ\nQjOl9JjEHVtxFXvbnPWubJ0e7/6rex6NtKagfoKtIQKBgQDlqdinIlk54FS7/aa8\nWAFX3+yEfU+yfK7sezb97gFUc8H+ZLKKAYzvRQRCfSgTb1LViZ+EuRS4lGcwbXQW\n2v1U5zHg8EVRGbsZe3JDnS6KtLlQ0Jzmrg18qJWA1lIzUfwATIIFe7AzTTy7nBj1\nPO6wrTsXW4xUt+oZmasmFIc/9wKBgQDjNaoU7u9k0Tm+uNFZbRg0a1dYnoH1WERx\nKKVf+vtAjlqYbllM46N5GzhMHelFLiDVFrmOEQGXbf8J1VFSIOLPd91M3oXqlh8B\noxzakXWOA1bYyTJjaonGuVL+AZw0LRPZ6rn0SEAMns1QGWqq5Yz2uDlvSWTa5eJk\nWf+KEW4suQKBgB7BB8oZx2kAqVgjN1ixUDy8N6fmP+3e1G3Gci6+2F6+wZOXWHEy\nk/TWgSOGLv+rQKRnsXzMbAHrnYXWol0NJi9gZkWA50dc8rkO1tZHDhx05vvzc49Q\nb23qBVsjWA6XQ++mTyL81TOJfECDPrRYXH48NFWEZN5TYn3bHhgTV6kxAoGAFSwc\nBEVbo35nriEUyQuEdOYHxqdGnvExt4W9G1uM7DAXuxqVUbfotNFXhqhG435v6stq\nURW+mzjRyj3JjSipWgHmalJWEk0Y6JMljix90tT2086z1lXILu94D1lhD++faPAZ\nkezlowdtRGiJ6xDm+Nqj533kWw2O8iD80gXbyWkCgYAgcXlPFZ02vpEfZnNa8exN\neUYrKg4S4aFkLEReVwbf2ulR7UQRB5qeVkRaOeTE0JZz57GWtaf/5g7o3rIzLoqz\nPLOJZtwzh0UxJ+rit0B0XOXuej0NvBW7YnAKo/y5FtA5pQH+4QoohOoz09VeAtib\ncNOSw0wcTxi1fokXKh6qXw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cravia-bot@cravia-bot-moeh.iam.gserviceaccount.com",
+  "client_id": "114211072365328229729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cravia-bot%40cravia-bot-moeh.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
