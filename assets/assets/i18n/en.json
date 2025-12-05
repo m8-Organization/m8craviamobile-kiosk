@@ -79,5 +79,22 @@
   "update_item": "Update Item",
   "call_confirm": "Are you sure you want to call this number?",
   "yes":"Yes",
-  "no": "No"
+  "no": "No",
+  "book_table": "Book Table",
+  "reserve_table": "Reserve Now",
+  "how_many_guest": "How Many Guests?",
+  "one_member": "1 - 2 Members",
+  "two_member": "3 - 4 Members",
+  "three_member": "5 - 6 Members",
+  "four_member": "7 - 8 Members",
+  "five_member": "9 - 10 Members",
+  "six_member": "10+ Members",
+  "need_help": "Need Help",
+  "join_queue": "Join Queue",
+  "call_manager": "Call Manager",
+  "book_now": "Book Now",
+  "table_are_occupied": "All tables are occupied.",
+  "need_help_tap": "Don’t worry",
+  "to_see": "to see other options",
+  "select_table": "Select a Table"
 }

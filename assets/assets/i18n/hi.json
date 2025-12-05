@@ -79,5 +79,21 @@
   "update_item": "वस्तु अपडेट करें",
   "call_confirm": "क्या आप वाकई इस नंबर पर कॉल करना चाहते हैं?",
   "yes":"हाँ",
-  "no": "नहीं"
+  "no": "नहीं",
+  "book_table": "टेबल बुक करें",
+  "reserve_table": "टेबल आरक्षित करें",
+  "how_many_guest": "कितने मेहमान",
+  "one_member": "1 - 2 सदस्य",
+  "two_member": "3 - 4 सदस्य",
+  "three_member": "5 - 6 सदस्य",
+  "four_member": "7 - 8 सदस्य",
+  "five_member": "9 - 10 सदस्य",
+  "six_member": "10+ सदस्य",
+  "need_help": "मदद चाहिए",
+  "join_queue": "कतार में शामिल हों",
+  "call_manager": "मैनेजर को कॉल करें",
+  "table_are_occupied": "सभी टेबलें अभी उपयोग में हैं।",
+  "to_see": "अन्य विकल्प देखने के लिए",
+  "select_table": "मेज़ चुनें"
+
 }
