@@ -1,6 +1,6 @@
 {
   "delete_confirmation": "क्या आप वाकई सभी वस्तुओं को हटाना चाहते हैं?",
-  "back_to_order": "ऑर्डर पर वापस जाएं",
+  "back_to_order": "ऑर्डर वापस",
   "yes_delete": "हाँ, हटाएं",
   "item_in_cart": "कार्ट में वस्तु",
   "clear_all": "सब साफ करें",
@@ -96,7 +96,8 @@
   "to_see": "अन्य विकल्प देखने के लिए",
   "select_table": "मेज़ चुनें",
   "wrap": "पैकिंग शुल्क",
-  "need_help_tap": "चिंता मत करो"
-
-
+  "need_help_tap": "चिंता मत करो",
+  "my_order": "आपका ऑर्डर",
+  "please_select_guest": "कृपया एक अतिथि चुनें",
+  "packing_charge": "पैकिंग शुल्क"
 }

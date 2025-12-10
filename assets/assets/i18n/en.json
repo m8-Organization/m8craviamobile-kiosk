@@ -97,5 +97,11 @@
   "need_help_tap": "Don’t worry",
   "to_see": "to see other options",
   "select_table": "Select a Table",
-  "wrap": "Wrap & Pack Fee Rs"
+  "wrap": "Wrap & Pack Fee Rs",
+  "my_order": "Your Orders",
+  "please_select_guest": "Please select a guest",
+  "packing_charge": "Packing Charger"
+
+
+
 }
