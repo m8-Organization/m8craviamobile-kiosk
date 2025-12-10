@@ -100,8 +100,19 @@
   "wrap": "Wrap & Pack Fee Rs",
   "my_order": "Your Orders",
   "please_select_guest": "Please select a guest",
-  "packing_charge": "Packing Charger"
-
-
-
+  "packing_charge": "Packing Charges",
+  "whatsapp_note": "We’ll notify you on WhatsApp as soon as a table becomes available.",
+  "join_queue_button": "Join Queue",
+  "cancel_queue_button": "Cancel Queue",
+  "estimated_wait": "Estimated wait time",
+  "groups_ahead": "Groups ahead you",
+  "position_prefix": "You're in the ",
+  "position_suffix": " position for a",
+  "takeaway_info": "We’d love to serve you! If waiting is tough, you can switch to Takeaway.",
+  "dont_want_to_lose_you": "We don’t want to lose you!",
+  "choose_takeaway": "Choose Takeaway",
+  "cancel": "Cancel",
+  "youre_in": "You’re in!",
+  "successfully_joined_queue": "You have successfully joined the queue.",
+  "seater": "seater"
 }

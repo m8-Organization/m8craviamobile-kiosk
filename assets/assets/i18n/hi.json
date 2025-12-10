@@ -99,5 +99,19 @@
   "need_help_tap": "चिंता मत करो",
   "my_order": "आपका ऑर्डर",
   "please_select_guest": "कृपया एक अतिथि चुनें",
-  "packing_charge": "पैकिंग शुल्क"
+  "packing_charge": "पैकिंग शुल्क",
+  "whatsapp_note": "जैसे ही टेबल उपलब्ध होगी, हम आपको व्हाट्सएप पर सूचित करेंगे।",
+  "join_queue_button": "कतार में जुड़ें",
+  "cancel_queue_button": "कतार रद्द करें",
+  "estimated_wait": "अनुमानित प्रतीक्षा समय",
+  "groups_ahead": "आपसे आगे समूह",
+  "position_prefix": "आप हैं ",
+  "position_suffix": " स्थान पर 2-सीटर के लिए!",
+  "takeaway_info": "हम आपको सेवा देना पसंद करेंगे! यदि इंतजार मुश्किल है, तो आप टेकअवे चुन सकते हैं।",
+  "dont_want_to_lose_you": "हम आपको खोना नहीं चाहते!",
+  "choose_takeaway": "टेकअवे चुनें",
+  "cancel": "रद्द करें",
+  "youre_in": "आप कतार में शामिल हो गए हैं!",
+  "successfully_joined_queue": "आप सफलतापूर्वक कतार में शामिल हो गए हैं।",
+  "seater": "seater"
 }
