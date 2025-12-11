@@ -106,7 +106,7 @@
   "cancel_queue_button": "Cancel Queue",
   "estimated_wait": "Estimated wait time",
   "groups_ahead": "Groups ahead you",
-  "position_prefix": "You're in the ",
+  "position_prefix": "You are in the ",
   "position_suffix": " position for a",
   "takeaway_info": "We’d love to serve you! If waiting is tough, you can switch to Takeaway.",
   "dont_want_to_lose_you": "We don’t want to lose you!",
@@ -114,5 +114,5 @@
   "cancel": "Cancel",
   "youre_in": "You’re in!",
   "successfully_joined_queue": "You have successfully joined the queue.",
-  "seater": "seater"
+  "seater": "seat table..."
 }
