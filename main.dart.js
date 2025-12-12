@@ -123675,7 +123675,7 @@ h=A.cf(a3,a3,(h==null?$.m=new A.Y():h).O(0,"position_suffix",a3))
 g=$.m
 f=t.VO
 j=A.AY(a3,a3,B.cn,a3,a3,!0,a3,A.cf(A.a([i,B.agW,h,A.cf(a3,a3," "+s+" "+(g==null?$.m=new A.Y():g).O(0,"seater",a3))],f),j,a3),B.a_,a3,a3,B.ap,B.aS)
-i=A.Hr("assets/icons/waiting1.json",o.gaV()?350:220,a3)
+i=A.Hr("assets/icons/waiting.json",o.gaV()?350:220,a3)
 h=a5.$1(0.01)
 g=o.gaV()?28:22
 g=A.cp("assets/icons/join.svg",a3,a3,B.U,o.gaV()?28:22,g)
