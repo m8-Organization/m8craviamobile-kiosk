@@ -114,5 +114,6 @@
   "cancel": "Cancel",
   "youre_in": "You’re in!",
   "successfully_joined_queue": "You have successfully joined the queue.",
-  "seater": "seat table..."
+  "seater": "seat table...",
+  "close": "Close"
 }
