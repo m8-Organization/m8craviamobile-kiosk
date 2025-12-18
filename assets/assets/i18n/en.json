@@ -115,5 +115,12 @@
   "youre_in": "You’re in!",
   "successfully_joined_queue": "You have successfully joined the queue.",
   "seater": "seat table...",
-  "close": "Close"
+  "close": "Close",
+  "search_hint_1": "Craving something? Find it here 🍔",
+  "search_hint_2": "Search your favorite meal 🍕",
+  "search_hint_3": "What’s for dinner tonight? 🍱",
+  "search_hint_4": "Find delicious combos 🌮",
+  "looking_for_bogo":"Looking for BOGO? Type here...,",
+  "no_items_ordered": "No items were ordered",
+  "looking_for_combo": "Looking for a combo? Type here..."
 }
