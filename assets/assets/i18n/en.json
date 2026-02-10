@@ -125,5 +125,8 @@
   "looking_for_combo": "Looking for a combo? Type here...",
   "no_addons_found": "No Add-ons found",
   "no_product": "No products found",
-  "remove_item": "Remove Item"
+  "remove_item": "Remove Item",
+  "order_takeaway_ready": "Your order will be ready for takeaway",
+  "order_table_served": "Your order will be served at the table",
+  "queueMessage": "You are in queue. Your table will be assigned shortly."
 }
